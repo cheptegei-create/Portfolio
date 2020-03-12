@@ -29,3 +29,9 @@ h1 {
   p.author {
       font-size: 12px;
   }
+  .line1 {
+      color: rgb(148, 128, 240);
+  }
+  .line2 {
+      color: lightcyan;
+  }
