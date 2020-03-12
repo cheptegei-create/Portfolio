@@ -19,3 +19,6 @@ h1 {
   h2 {
       color: #00FF00;
   }
+  .intro {
+      font-style: italic;
+  }
