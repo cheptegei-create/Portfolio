@@ -35,3 +35,9 @@ h1 {
   .line2 {
       color: lightcyan;
   }
+  .important {
+      color: mediumblue;
+  }
+  .unimportant {
+      color: olive;
+  }
