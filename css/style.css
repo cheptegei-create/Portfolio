@@ -45,8 +45,8 @@ h1 {
       background-color: orange;
   }
   .sidebar {
-      width: 30%
-      float: right;
+      width: 30%;
+      float: left;
       background-color: yellow;
   }
   .column{
