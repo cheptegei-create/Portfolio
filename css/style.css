@@ -49,7 +49,25 @@ h1 {
       float: left;
       background-color: yellow;
   }
-  .column{
+  .column {
       width: 350px;
       float: left;
+  }
+  .text-box1 {
+      border: 2px solid green;
+      padding: 6px;
+      margin: 20px;
+      background-color: yellow;
+  }
+  .text-box2 {
+      border: 2px solid red;
+      padding: 6px;
+      margin: 20px;
+      background-color: yellowgreen;
+  }
+  .text-box3 {
+      border: 2px solid yellow;
+      padding: 6px;
+      margin: 20px;
+      background-color: tomato;
   }
