@@ -22,3 +22,7 @@ h1 {
   .intro {
       font-style: italic;
   }
+  .intro {
+        color: red;
+        font-size: 12px;
+  }
