@@ -15,4 +15,4 @@ To run this project click on this link https://cheptegei-create.github.io/Portfo
 ## Author's Name
 David Kiptoo Cheptegei
 ## Licence
-Check out 
+Check out MIT license at this link 
