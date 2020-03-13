@@ -10,4 +10,6 @@ This project was created with:
 *html
 *css
 ## Setup
-To run this project click on this link 
+To run this project click on this link https://cheptegei-create.github.io/Portfolio/
+## Author's Name
+David Kiptoo Cheptegei
