@@ -10,6 +10,4 @@ This project was created with:
 *html
 *css
 ## Setup
-To run this project, install it locally using npm:
-...
-$ cd ../
+To run this project click on this link 
