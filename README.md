@@ -3,6 +3,7 @@
 *[General Information](#general-info)
 *[Technologies](#technologies)
 *[Setup](#setup)
+*[Author](#author)
 ## General info
 This is a simple project for creating an online platform for browsing and purchasing african prints on african fabrics.
 ## Technologies
