@@ -50,11 +50,11 @@ p.author {
     color: mediumblue;
 }
 
-.unimportant {
+#unimportant {
     color: olive;
 }
 
-.important {
+#important {
     background-color: orange;
 }
 
