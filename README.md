@@ -6,7 +6,7 @@
 *[Author](#author)
 *[License](#license)
 ## General info
-This is a simple project for creating an online platform for browsing and purchasing african prints on african fabrics.
+This a personal bio of the owner of an online platform for browsing and purchasing african prints on african fabrics.
 ## Technologies
 This project was created with:
 *html
